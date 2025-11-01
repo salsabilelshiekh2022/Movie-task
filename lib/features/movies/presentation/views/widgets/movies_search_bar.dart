@@ -52,6 +52,9 @@ class _MoviesSearchBarState extends State<MoviesSearchBar> {
           child: TextField(
             controller: _searchController,
             focusNode: _focusNode,
+            onTapOutside: (event) {
+              _focusNode.unfocus();
+            },
             onChanged: _onSearchChanged,
             decoration: InputDecoration(
               hintText: 'Search movies...',
