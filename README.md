@@ -19,14 +19,9 @@ A Flutter application that displays popular movies from The Movie Database (TMDb
 
 ## Screenshots 📸
 
-### Splash Screen
-![Splash Screen](screenshots/splash.png)
-
-### Movies List Screen
-![Movies List](screenshots/movie_list.png)
-
-### Movie Details Screen
-![Movie Details](screenshots/movie_details.png)
+| Splash Screen | Movies List | Movie Details |
+|---------------|-------------|---------------|
+| <img src="https://drive.google.com/uc?export=view&id=1oWO4vH_IPfFgQzmSHyPrSARwdWl8MycD" width="250"/> | <img src="https://drive.google.com/uc?export=view&id=1W7G8NakTC4LWii15zctELUFsq3gDuCGO" width="250"/> | <img src="https://drive.google.com/uc?export=view&id=1uaxUF2tEeRe50_xXZ81LOjG3lqPVbcqn" width="250"/> |
 
 ## Setup Instructions 🚀
 
